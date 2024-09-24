@@ -14,5 +14,4 @@ public class Player {
     //Getter och setter för allt
 
     public String getName() {return name;}
-    public void setName(String name) {this.name = name;}
 }
